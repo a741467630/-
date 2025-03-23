@@ -1,0 +1,4 @@
+psutil
+pandas
+xlsxwriter
+wmi
